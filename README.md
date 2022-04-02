@@ -12,7 +12,7 @@
 which allows for smooth Tailwind usage
 6. Pre-configured "build" and "dev" npm scripts for a simple Webpack build<br>
 and Webpack dev server respectively
-7. Pre-configured src and dist folders
+7. Pre-configured src directory
 8. Development mode and basic source map dev tool pre-enabled
 
 <h3>To-Do:</h3>
