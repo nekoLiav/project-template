@@ -1,7 +1,7 @@
 # Project Template
 
 <h3>Overview:</h3>
-<p>This is a template designed for myself to be able to fully setup new projects very quickly. It contains a variety of dependencies to make developing a breeze, which I will list below. In the future, I will likely add a custom React template as well that will synergize nicely with create-react-app. This will do for now, however.</p>
+<p>This is a template designed for myself to be able to fully setup new projects very quickly. It contains a variety of dependencies to make developing a breeze, which I will list below.</p>
 
 <h3>Details:</h3>
 1. Eslint with Airbnb style guide (VSCode plugin required)</br>
@@ -9,7 +9,7 @@
 3. Tailwind<br>
 4. Webpack<br>
 5. Webpack dev server with hot reload enabled for changes to any src file,<br>
-which allows for smooth Tailwind usage
+which allows for smooth Tailwind usage<br>
 6. Pre-configured "build" and "dev" npm scripts for a simple Webpack build<br>
 and Webpack dev server respectively<br>
 7. Pre-configured src directory<br>
